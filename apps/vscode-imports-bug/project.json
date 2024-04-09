@@ -1,0 +1,9 @@
+{
+  "name": "vscode-imports-bug",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/vscode-imports-bug/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project vscode-imports-bug --web",
+  "targets": {}
+}
